@@ -10,8 +10,8 @@
 
 - 🏫 Final Year **Electronics & Communication Engineering** @ VSB Engineering College, Tamil Nadu (2027)
 - 💻 Passionate about **Software Development, AI/ML & Cloud Technologies**
-- 🤖 Currently learning: **AWS AI/ML Fundamentals | Google AI Essentials | IBM Generative AI Engineering**
-- 🏆 **Salesforce Agentforce Champion** | SIH 2024 & 2025 Finalist
+- 🤖 Currently learning: **AWS AI/ML Fundamentals | Google AI Essentials | AWS Cloud**
+- 🏆 **Salesforce Agentforce Champion** | Hackthon participant 
 - 📍 Erode, Tamil Nadu, India
 
 ---
