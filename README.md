@@ -102,10 +102,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lekhashree21&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhashree21&layout=compact" height="165"/>
+  <img src="https://img.shields.io/github/followers/lekhashree21?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/lekhashree21?label=Stars&style=social"/>
+  <img src="https://img.shields.io/badge/LeetCode-360%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Gold%20Badge-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeVita%20S13-Rank%209759-blue?style=flat"/>
 </p>
 
 ---
