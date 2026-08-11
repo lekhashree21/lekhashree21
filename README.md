@@ -102,12 +102,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekhashree21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhashree21&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lekhashree21&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhashree21&layout=compact" height="165"/>
+</p>
 
 ---
 
