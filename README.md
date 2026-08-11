@@ -1,4 +1,6 @@
- <p align="center"> <img src="./banner.gif" alt="banner" width="100%"/> </p>
+<p align="center">
+  <img src="./banner.gif" alt="banner" width="100%"/>
+</p>
 # Hi there, I'm Lekhashree B 👋
 
 <div align="center">
